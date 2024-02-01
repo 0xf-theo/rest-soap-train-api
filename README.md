@@ -5,9 +5,9 @@
 
 ## Authors
 
-- VILLANO Théo
-- CANTRELLE Noa
-- LUCET Aymeric
+- V. Théo
+- C. Noa
+- L. Aymeric
 ## 🛠 SOAP Launch Steps
 - Open with eclipse photon JEE
 - Deploying the microservice on Tomcat
